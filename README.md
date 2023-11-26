@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://healthtech.unistra.fr/">
-    <img src="images/logo.png" alt="Logo" width="80" height="123">
+    <img src="images/logo.JPG" alt="Logo" width="80" height="123">
   </a>
 
   <h1 align="center">Model Predictive Control of Vibration Systems</h1>
