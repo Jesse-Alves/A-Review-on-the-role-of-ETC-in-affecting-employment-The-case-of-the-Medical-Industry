@@ -12,7 +12,7 @@
     <img src="images/logo.JPG" alt="Logo" width="720" height="120">
   </a>
 
-  <h1 align="center">Deep Learning for Histopathological Image Segmentation</h1>
+  <h1 align="center">The role of Embodied Technological Change (ETC) in affecting employment in the Medical Industry.</h1>
 
   <p align="center">
     <a href="https://github.com/Jesse-Alves?tab=repositories"><strong>View all repositories  »</strong></a>
