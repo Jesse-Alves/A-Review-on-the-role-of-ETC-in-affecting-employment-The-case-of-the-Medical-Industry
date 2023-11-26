@@ -9,10 +9,10 @@
 <br />
 <div align="center">
   <a href="https://healthtech.unistra.fr/">
-    <img src="images/logo.JPG" alt="Logo" width="80" height="123">
+    <img src="images/logo.JPG" alt="Logo" width="720" height="120">
   </a>
 
-  <h1 align="center">Model Predictive Control of Vibration Systems</h1>
+  <h1 align="center">Deep Learning for Histopathological Image Segmentation</h1>
 
   <p align="center">
     <a href="https://github.com/Jesse-Alves?tab=repositories"><strong>View all repositories  »</strong></a>
